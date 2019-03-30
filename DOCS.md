@@ -1,5 +1,5 @@
 # Henri's Default
-The reset package of Henri's.
+The Menu package of Henri's.
 
-This package includes all resets.
+This package includes all menu mixins.
 
