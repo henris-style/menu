@@ -37,6 +37,7 @@
 	top: 50%;
 	left: 50%;
 	text-indent: -999em;
+	transform: translateY(-#{$menu-height});
 	cursor: pointer;
 
 	// The code for the span
@@ -84,6 +85,7 @@
 	}
 	& {
 		background-color: transparent;
+		transform: translateY(-#{$menu-height / 2});
 	}
 	&::before {
 		transform: translateY($menu-gutter + $menu-height) rotate(45deg);
