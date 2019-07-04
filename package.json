@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@henris/grid": "^0.0.5",
-    "@henris/output": "^0.0.4",
+    "@henris/output": "^0.0.6",
     "@henris/utils": "^0.0.5"
   }
 }
