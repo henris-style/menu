@@ -35,7 +35,7 @@
     "@henris/build": "0.0.3",
     "node-sass": "^4.11.0",
     "sass": "^1.17.1",
-    "ssst": "0.0.4",
+    "ssst": "0.0.5",
     "stylelint": "^9.10.1",
     "stylelint-logical-order": "0.0.4",
     "stylelint-order": "^2.0.0"
